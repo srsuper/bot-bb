@@ -1,0 +1,94 @@
+[
+  {
+    "id": "f91a6b7b-302b-4a6b-9845-700d2644ff70",
+    "data": [
+      {
+        "text": "Converte ",
+        "userDefined": false
+      },
+      {
+        "text": "400 NGN",
+        "alias": "amountToConverte",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "usd",
+        "alias": "outputcurrency",
+        "meta": "@sys.currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529141654
+  },
+  {
+    "id": "662182f5-9668-4745-a467-9d85beaca6a7",
+    "data": [
+      {
+        "text": "i wish to convert ",
+        "userDefined": false
+      },
+      {
+        "text": "400 usd",
+        "alias": "amountToConverte",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529141654
+  },
+  {
+    "id": "6e955701-2dd7-475b-828a-6d9b48067c41",
+    "data": [
+      {
+        "text": "how much is ",
+        "userDefined": false
+      },
+      {
+        "text": "500 usd",
+        "alias": "amountToConverte",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529141654
+  },
+  {
+    "id": "aff7c268-d8dd-47bb-92c4-866b667ef709",
+    "data": [
+      {
+        "text": "How much is ",
+        "userDefined": false
+      },
+      {
+        "text": "500 us dollars",
+        "alias": "amountToConverte",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "indian rupees",
+        "alias": "outputcurrency",
+        "meta": "@sys.currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529141654
+  }
+]

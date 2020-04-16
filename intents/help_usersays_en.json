@@ -1,0 +1,38 @@
+[
+  {
+    "id": "f74d57f6-b42c-43c7-9677-1b3c87c3aa9b",
+    "data": [
+      {
+        "text": "how do i convert currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529140653
+  },
+  {
+    "id": "d9b7d565-013f-460b-b23f-a8a23f8d0107",
+    "data": [
+      {
+        "text": "help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529140653
+  },
+  {
+    "id": "a300cb12-b54c-403c-9317-e6d41b49ae8b",
+    "data": [
+      {
+        "text": "help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529140653
+  }
+]

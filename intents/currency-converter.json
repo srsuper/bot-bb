@@ -1,0 +1,58 @@
+{
+  "id": "29a70f19-3bf1-4999-a852-2985fac5e892",
+  "name": "currency-converter",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "convert",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "04c0dd2b-af52-4837-8d2e-b21313632d66",
+          "required": true,
+          "dataType": "@sys.unit-currency",
+          "name": "amountToConverte",
+          "value": "$amountToConverte",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the amount and currency that you wish to convert? e.g 500 usd or 500 us dollars"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "d7e12338-685d-4ff7-bd18-f1200ab92ce1",
+          "required": true,
+          "dataType": "@sys.currency-name",
+          "name": "outputcurrency",
+          "value": "$outputcurrency",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What currency do you wish to convert to?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529265006,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "bb840d67-e7db-49a9-882e-aa332de99ab1",
+  "name": "owner",
+  "auto": true,
+  "contexts": [
+    "creator",
+    "owner"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "creator",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "owner",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Obi Ebuka David is my creator"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528989408,
+  "fallbackIntent": false,
+  "events": []
+}

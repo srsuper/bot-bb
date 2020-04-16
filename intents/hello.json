@@ -1,0 +1,31 @@
+{
+  "id": "829a5e05-a9f1-4b18-8e35-f72008e44eea",
+  "name": "hello",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hey, i am Moneybot. You can ask me to convert an amount from one currency to another. You can ask.\"How much is 500 usd in indian rupees\".",
+            "Hi, Try saying \"How much is 500 usd in indian rupees?\""
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529140470,
+  "fallbackIntent": false,
+  "events": []
+}
